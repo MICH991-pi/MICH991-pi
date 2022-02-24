@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MICH991-pi
 - 👀 I’m interested in Social Engineering
-- 🌱 I’m currently learning python and termux
+- 🌱 I’m currently learning this languages python C# PHP MYSQL Shell Scripting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email: michaeladejare7@gmail.com
 
